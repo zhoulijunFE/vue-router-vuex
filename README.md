@@ -24,8 +24,8 @@ https://www.jianshu.com/p/45b5ce2ab1c5
 Error: vue-cli · Failed to download repo vuejs-templates/my-vue: Response code 404 (Not Found)
      Resolve: vue-init webpack my-project
 ```
-##### vue相关组件：
-http://element.eleme.io/#/zh-CN/component/table
+##### vue路由：
+https://router.vuejs.org/zh/
 
 ##### vue相关文档：
 ###### 1.vue slot-scope理解:  
