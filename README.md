@@ -3,11 +3,10 @@
 https://cn.vuejs.org/index.html
 
 ##### vue代码规范：
+ ```
  https://cn.vuejs.org/v2/style-guide/index.html
  https://github.com/pablohpsilva/vuejs-component-style-guide/blob/master/README-CN.md
- 
-##### vue组件：
-http://element.eleme.io
+ ```
 
 ##### vue相关组件：
 http://element.eleme.io/#/zh-CN/component/table
