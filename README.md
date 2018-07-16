@@ -6,17 +6,13 @@ https://cn.vuejs.org/index.html
  https://cn.vuejs.org/v2/style-guide/index.html
  https://github.com/pablohpsilva/vuejs-component-style-guide/blob/master/README-CN.md
  
-##### vue代码规范：
- https://cn.vuejs.org/v2/style-guide/index.html
- https://github.com/pablohpsilva/vuejs-component-style-guide/blob/master/README-CN.md
- 
+##### vue组件：
+http://element.eleme.io
+
 ##### vue相关组件：
 http://element.eleme.io/#/zh-CN/component/table
 ###### vue引入element-ui: (vue install use)
 http://element.eleme.io/#/zh-CN/component/quickstart
-
-##### vue相关组件：
-http://element.eleme.io/#/zh-CN/component/table
 
 ##### vue项目初始化创建：
 https://www.jianshu.com/p/45b5ce2ab1c5
